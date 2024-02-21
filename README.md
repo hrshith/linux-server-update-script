@@ -13,12 +13,12 @@ cd linux-server-update-script
 ```
 ### Run the script
 ```
-./linux-server-update-script
+./linux-server-update-script.sh
 ```
 
 ## Issues
 
 ### Sometimes the script permissions aren't correctly applied, you can fix using below
 ```
-chmod +x linux-server-update-script
+chmod +x linux-server-update-script.sh
 ```
